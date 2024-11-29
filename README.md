@@ -1,5 +1,3 @@
-# Creating a README.md file with the provided content
-readme_content = """
 # Role-Based Access Control (RBAC) System
 
 This project implements a secure Role-Based Access Control (RBAC) system using **Node.js**, **Express**, and **MongoDB**. It includes features for authentication, authorization, and role management, ensuring secure access to resources based on user roles.
